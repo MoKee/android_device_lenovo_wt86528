@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "android_vendor_lenovo_wt86528",
+    "target_path": "vendor/lenovo/wt86528"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "android_kernel_lenovo_wt86528",
+    "target_path": "kernel/lenovo/wt86528"
+  }
+]
